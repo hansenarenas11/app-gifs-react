@@ -1,0 +1,16 @@
+
+body {
+    background-color: rgb(6, 0, 59);
+}
+
+h1 {
+    color: aliceblue;
+    text-align:left;
+    font-size: 38px;
+    font-family: system-ui;
+    background-color: rgb(6, 0, 59);
+}
+
+.contenedor-app {
+    background-color: rgb(6, 0, 59);
+}

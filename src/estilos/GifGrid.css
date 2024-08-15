@@ -1,0 +1,26 @@
+
+.principal-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    background-color:rgb(6, 0, 59);
+}
+
+.titulo-container {
+    font-size: 32px;
+    font-family: system-ui;
+    margin-bottom: 20px;
+    text-align: center;
+    color: aliceblue;
+    background-color: rgb(6, 0, 59)
+}
+
+.card-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 15px;
+    max-width: 1200px;
+    width: 100%;
+    background-color:rgb(6, 0, 59);
+}
